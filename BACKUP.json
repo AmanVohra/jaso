@@ -31,7 +31,7 @@
     },
     {
       "time": "14:15",
-      "text": "Creation of accordion (10 tabs), for Action Plan-Customer Loyalty",
+      "text": "Creation of accordion (10 tabs), for Action Plan-Customer Loyalty Completed",
       "completed": true
     },
     {
@@ -43,12 +43,19 @@
   "0-22": [
     {
       "time": "13:08",
-      "text": "Made changes in accordion based on changes by client",
+      "text": "Made changes in accordion based on changes by client Completed",
       "completed": true
     },
     {
       "time": "13:09",
       "text": "Worked on Daily Task Manager - 2025 JS/CSS In-Progress",
+      "completed": false
+    }
+  ],
+  "0-24": [
+    {
+      "time": "09:30",
+      "text": "<br>\n<h1>ON LEAVE<h1>",
       "completed": false
     }
   ]
