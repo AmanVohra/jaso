@@ -19,12 +19,8 @@ behavior of quantum physics
 but don't worry quantum physics is
 
 7
-00:00:20,640 --> 00:00:22,560
-explained in simple language in this
-
-8
-00:00:22,560 --> 00:00:23,699
-course
+00:00:20,640 --> 00:00:23,699
+explained in simple language in this course
 
 9
 00:00:23,699 --> 00:00:25,640
@@ -32,15 +28,15 @@ and after you complete the course
 
 10
 00:00:25,640 --> 00:00:30,260
-quantum physics will not appear weird
+quantum physics will not appear weird.
 
 11
 00:00:30,300 --> 00:00:33,420
-the notion of a bit is different in
+The notion of a bit is different
 
 12
 00:00:33,420 --> 00:00:35,160
-Quantum computing.
+in Quantum computing.
 
 13
 00:00:35,160 --> 00:00:39,480
@@ -103,12 +99,8 @@ Quantum computers are designed like a
 digital circuit with Gates
 
 28
-00:01:18,360 --> 00:01:21,420
-instead of bits the gates operate on
-
-29
-00:01:21,420 --> 00:01:23,280
-Quantum bits.
+00:01:18,360 --> 00:01:23,280
+instead of bits the gates operate on Quantum bits.
 
 30
 00:01:23,280 --> 00:01:27,000
@@ -131,20 +123,12 @@ with each other
 superposition and entanglement requires
 
 35
-00:01:38,820 --> 00:01:41,159
-us to rethink algorithms in a
-
-36
-00:01:41,159 --> 00:01:43,759
-fundamental way
+00:01:38,820 --> 00:01:43,759
+us to rethink algorithms in a fundamental way
 
 37
-00:01:43,759 --> 00:01:46,799
-programming quantum computers involves
-
-38
-00:01:46,799 --> 00:01:48,180
-math
+00:01:43,759 --> 00:01:48,180
+programming quantum computers involves math
 
 39
 00:01:48,180 --> 00:01:51,720
@@ -155,12 +139,8 @@ but don't worry this course explains all
 the required math in simple language
 
 41
-00:01:54,780 --> 00:01:57,360
-it can be understood by any software
-
-42
-00:01:57,360 --> 00:01:58,920
-professional.
+00:01:54,780 --> 00:01:58,920
+it can be understood by any software professional.
 
 43
 00:01:58,920 --> 00:02:02,579
