@@ -13,7 +13,6 @@ Quantum Computing builds upon the weird
 5
 00:00:14,880 --> 00:00:18,000
 behavior of quantum physics
-
 6
 00:00:18,000 --> 00:00:20,640
 but don't worry quantum physics is
