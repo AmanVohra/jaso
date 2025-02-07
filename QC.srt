@@ -140,7 +140,7 @@ the required math in simple language
 
 36
 00:01:54,780 --> 00:01:58,920
-it can be understood by any software professional.
+it can be understood by any software professional..
 
 37
 00:01:58,920 --> 00:02:02,579
