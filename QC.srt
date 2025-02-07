@@ -64,15 +64,15 @@ way we program quantum computers.
 
 17
 00:00:54,059 --> 00:00:56,160
-It is not based on the fond human
+It is not based on the Von Neumann 
 
 18
 00:00:56,160 --> 00:00:57,899
-architecture..
+Architecture..
 
 19
 00:00:57,899 --> 00:01:00,960
-One human architecture is the idea that
+Von Neumann Architecture is the idea that
 
 20
 00:01:00,960 --> 00:01:03,120
