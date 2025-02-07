@@ -1,10 +1,10 @@
 1
 00:00:00,480 --> 00:00:02,470
-foreign
+foreign.
 
 3
 00:00:08,220 --> 00:00:12,120
-how is quantum Computing different
+how is quantum Computing different.
 
 4
 00:00:12,120 --> 00:00:14,880
@@ -40,11 +40,11 @@ the notion of a bit is different in
 
 12
 00:00:33,420 --> 00:00:35,160
-Quantum computing
+Quantum computing.
 
 13
 00:00:35,160 --> 00:00:39,480
-a Quantum bit is not just off or on it
+A Quantum bit is not just off or on it
 
 14
 00:00:39,480 --> 00:00:41,760
@@ -92,11 +92,11 @@ the CPU plus memory model doesn't apply
 
 25
 00:01:10,860 --> 00:01:13,500
-to quantum computers
+to quantum computers.
 
 26
 00:01:13,500 --> 00:01:15,900
-quantum computers are designed like a
+Quantum computers are designed like a
 
 27
 00:01:15,900 --> 00:01:18,360
@@ -108,7 +108,7 @@ instead of bits the gates operate on
 
 29
 00:01:21,420 --> 00:01:23,280
-Quantum bits
+Quantum bits.
 
 30
 00:01:23,280 --> 00:01:27,000
@@ -160,11 +160,11 @@ it can be understood by any software
 
 42
 00:01:57,360 --> 00:01:58,920
-professional
+professional.
 
 43
 00:01:58,920 --> 00:02:02,579
-it is enough if you know 10th grade math
+It is enough if you know 10th grade math
 
 44
 00:02:02,579 --> 00:02:04,680
@@ -172,5 +172,5 @@ everything you need to know is explained
 
 45
 00:02:04,680 --> 00:02:07,219
-in this course
+in this course.
 
