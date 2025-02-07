@@ -1,10 +1,10 @@
 1
 00:00:00,480 --> 00:00:02,470
-Background Music.
+Background Music..
 
 2
 00:00:08,220 --> 00:00:12,120
-How is quantum Computing different.
+How is quantum Computing different..
 
 3
 00:00:12,120 --> 00:00:14,880
@@ -28,7 +28,7 @@ and after you complete the course
 
 8
 00:00:25,640 --> 00:00:30,260
-quantum physics will not appear weird.
+quantum physics will not appear weird..
 
 9
 00:00:30,300 --> 00:00:33,420
@@ -68,7 +68,7 @@ It is not based on the fond human
 
 18
 00:00:56,160 --> 00:00:57,899
-architecture.
+architecture..
 
 19
 00:00:57,899 --> 00:01:00,960
@@ -88,7 +88,7 @@ the CPU plus memory model doesn't apply
 
 23
 00:01:10,860 --> 00:01:13,500
-to quantum computers.
+to quantum computers..
 
 24
 00:01:13,500 --> 00:01:15,900
@@ -100,7 +100,7 @@ digital circuit with Gates
 
 26
 00:01:18,360 --> 00:01:23,280
-instead of bits the gates operate on Quantum bits.
+instead of bits the gates operate on Quantum bits..
 
 27
 00:01:23,280 --> 00:01:27,000
@@ -152,4 +152,4 @@ everything you need to know is explained
 
 39
 00:02:04,680 --> 00:02:07,219
-in this course.
+in this course..
