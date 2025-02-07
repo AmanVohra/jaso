@@ -64,19 +64,19 @@ there is a fundamental difference in the
 
 18
 00:00:50,879 --> 00:00:54,059
-way we program quantum computers
+way we program quantum computers.
 
 19
 00:00:54,059 --> 00:00:56,160
-it is not based on the fond human
+It is not based on the fond human
 
 20
 00:00:56,160 --> 00:00:57,899
-architecture
+architecture.
 
 21
 00:00:57,899 --> 00:01:00,960
-one human architecture is the idea that
+One human architecture is the idea that
 
 22
 00:01:00,960 --> 00:01:03,120
@@ -112,11 +112,11 @@ Quantum bits.
 
 30
 00:01:23,280 --> 00:01:27,000
-Quantum bits are called qubits
+Quantum bits are called qubits.
 
 31
 00:01:27,000 --> 00:01:30,180
-the qubits are not independent
+The qubits are not independent
 
 32
 00:01:30,180 --> 00:01:32,640
