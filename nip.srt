@@ -1,14 +1,6 @@
 1
-00:00:00,160 --> 00:00:03,199
-course module nutrition and plants click
-
-2
-00:00:03,199 --> 00:00:05,440
-space bar to go to the main menu
-<br><br>
-3
-00:00:05,440 --> 00:00:09,040
-use enter to listen again
+00:00:00,160 --> 00:00:09,040
+course module nutrition and plants. click space bar to go to the main menu. Use enter to listen again
 
 4
 00:00:09,760 --> 00:00:12,559
